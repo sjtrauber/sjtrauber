@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a **bioinformatics scientist** with a passion for leve
 - **Multi-omics Integration**: Combining genomic, transcriptomic, and environmental data for a holistic understanding.
 - **Science Education & Outreach**: Engaging in volunteer activities to promote data science, computational biology, and sustainability.
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
