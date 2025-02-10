@@ -20,14 +20,10 @@ Welcome to my GitHub! I'm a **bioinformatics scientist** with a passion for leve
 - **Biotechnology Applications**: Identifying genetic traits favorable for industrial and environmental applications.
 - **Data Science & Visualization**: Creating intuitive heatmaps, network analyses, and predictive models to uncover biological insights.
 
----
-
 ## 📂 Projects & Contributions
 - **Transcriptome Analysis**: Normalization and differential expression studies across diverse datasets.
 - **Multi-omics Integration**: Combining genomic, transcriptomic, and environmental data for a holistic understanding.
 - **Science Education & Outreach**: Engaging in volunteer activities to promote data science, computational biology, and sustainability.
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,8 +36,6 @@ Welcome to my GitHub! I'm a **bioinformatics scientist** with a passion for leve
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/830bf1aa-beb1-4af1-a37e-91ac1723991d" title="Singularity" alt="Singularity" width="40" height="40"/>
 </div>
-
----
 
 ## 📫 Connect with Me
 - 🌐 Website: [sjtrauber.com](https://sjtrauber.com)
