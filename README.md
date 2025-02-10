@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="![image](https://github.com/user-attachments/assets/6d39b727-e86b-4d32-b22d-98d1c1696693)" width="100"/>
+  <img src="[![image](https://github.com/user-attachments/assets/6d39b727-e86b-4d32-b22d-98d1c1696693)](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?t=st=1739226686~exp=1739230286~hmac=547c7db9d934053bf26576c86c46922e0a80f85bfb43469743225de1e38ca56f&w=2000)" width="100"/>
 </div>
 
 # Hi, I'm Sarah Weintraub! 👋
