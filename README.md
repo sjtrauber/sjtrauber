@@ -4,8 +4,8 @@
   <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?t=st=1739226686~exp=1739230286~hmac=547c7db9d934053bf26576c86c46922e0a80f85bfb43469743225de1e38ca56f&w=2000", width="100"/>
 </div>
 
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/sarah-weintraub-1443ba9b/">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sarah-weintraub-1443ba9b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
