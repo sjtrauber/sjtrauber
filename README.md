@@ -1,16 +1,27 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="![image](https://github.com/user-attachments/assets/6d39b727-e86b-4d32-b22d-98d1c1696693)" width="100"/>
+</div>
 
-<!--
-**sjtrauber/sjtrauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sarah Weintraub! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a **bioinformatics scientist** with a passion for leveraging computational tools to decode complex biological systems. My work focuses on transcriptomics, genomics, and applying data science to biotechnology and environmental sustainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research & Interests
+- **Bioinformatics & Computational Biology**: Developing pipelines for differential expression analysis, batch effect correction, and multi-omics integration.
+- **Biotechnology Applications**: Identifying genetic traits favorable for industrial and environmental applications.
+- **Data Science & Visualization**: Creating intuitive heatmaps, network analyses, and predictive models to uncover biological insights.
+
+## 📂 Projects & Contributions
+- **Transcriptome Analysis**: Normalization and differential expression studies across diverse datasets.
+- **Multi-omics Integration**: Combining genomic, transcriptomic, and environmental data for a holistic understanding.
+- **Science Education & Outreach**: Engaging in volunteer activities to promote data science, computational biology, and sustainability.
+
+## 📫 Connect with Me
+- 🌐 Website: [sjtrauber.com](https://sjtrauber.com)
+- 💼 LinkedIn: [Sarah Weintraub](https://www.linkedin.com/in/sarah-weintraub-1443ba9b/)
+- 🐙 GitHub: You're already here! Feel free to explore my repositories and reach out.
+
+### 🚀 Always Open to Collaboration
+I'm always excited to collaborate on projects involving **bioinformatics, data science, and environmental sustainability**. If you're interested in working together, let’s connect!
+
+Thanks for stopping by! 😊
