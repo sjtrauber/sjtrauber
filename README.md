@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sarah-weintraub-1443ba9b/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sarah-j-weintraub/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a **bioinformatics scientist** with a passion for leve
 
 ## 📫 Connect with Me
 - 🌐 Website: [sjtrauber.com](https://sjtrauber.com)
-- 💼 LinkedIn: [Sarah Weintraub](https://www.linkedin.com/in/sarah-weintraub-1443ba9b/)
+- 💼 LinkedIn: [Sarah Weintraub](https://www.linkedin.com/in/sarah-j-weintraub)
 - 🐙 GitHub: You're already here! Feel free to explore my repositories and reach out.
 
 ### 🚀 Always Open to Collaboration
